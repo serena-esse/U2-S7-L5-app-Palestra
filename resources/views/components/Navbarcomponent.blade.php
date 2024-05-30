@@ -24,7 +24,7 @@
   <div class="container-fluid">
     
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <a class="navbar-brand text-white" href="#">App Palestra</a>
+    <a class="navbar-brand text-white" href="#">Fit Hub</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

@@ -46,7 +46,7 @@ integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIe
 
 
 @section('content')
-<h1 class="text-center my-5">@section('title', 'Homepage')</h1>
+<h1 class="text-center my-5">@section('title', 'Corsi')</h1>
     <div class="row my-5 mx-5">
         @foreach($corsi as $corso)
         <div class="col-3">

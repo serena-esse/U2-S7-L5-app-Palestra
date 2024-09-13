@@ -35,7 +35,7 @@ class AttivitaController extends Controller
       Attivita::create([
         'corso' => $request->corso,
         'descrizione' => $request->descrizione,
-        'posti disponibili' => $request->posti_disponibili,
+        'posti_disponibili' => $request->posti_disponibili,
         'img_url' => $request->img_url
         
 

@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('corso');
             $table->string('descrizione');
-            $table->integer('posti disponibili');
+            $table->integer('posti_disponibili')->default(0)->change();
             $table->timestamps();
             $table->string('img_url');
         });
